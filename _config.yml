@@ -1,2 +1,3 @@
-gems:
+# Build settings
+plugins:
   - jekyll-redirect-from
